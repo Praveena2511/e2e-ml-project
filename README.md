@@ -3,7 +3,7 @@
 
 
 Workflows
- 1.update config.yaml
+ *1.update config.yam*l*
  2.update schema.yaml
  3.update params.yaml
  4.update the entity
